@@ -78,6 +78,15 @@ $(function(){
     })
 
 
+    $('.btn').on('click',function(){
+        alert("Click");
+
+    })
+
+
+
+
+
 
 })
 
